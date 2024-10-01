@@ -1,2 +1,2 @@
-# cony-python-portfolio
+# ccny-python-portfolio
 Activitys for class
